@@ -57,3 +57,12 @@
     font-size: 15px;
     font-weight: 600;
 }
+
+.login__logo {
+    width: 30px;
+}
+
+#simple-modal-description {
+    display: flex;
+    flex-direction: column;
+}
